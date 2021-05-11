@@ -17,7 +17,7 @@
 | APP DEVELOPMENT | 15.05.21 | No |
 
 
-***C++ CODIND 
+***C++ CODING
 
 #include<iostream>
   using namespace std;
@@ -32,5 +32,5 @@
      cout << "sum of all characters :"<<sum;
      return 0;
   }
-     ***
      
+***
