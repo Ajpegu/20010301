@@ -6,7 +6,7 @@
 |---- | --- | --- |
 | OPEN SOURCE | 10.05.21| Yes |
 |----| ---- | ---- |
-| _COMPETITIVE CODING_| 11.05.21|
+| _COMPETITIVE CODING_| 11.05.21| No |
 |----| ---- | ---- |
 | _DESIGN_| 12.05.21 | Yes |
 |----| ---- | ---- |
@@ -17,3 +17,20 @@
 | APP DEVELOPMENT | 15.05.21 | No |
 
 
+***C++ CODIND 
+
+#include<iostream>
+  using namespace std;
+  int main ()
+  {
+    char str[50];
+     int i,sum = 0;
+     cout<<"Enter a string :";
+     gets(str);
+     for(i=0;str[i] !='0';i++)
+         sum = sum + str[i];
+     cout << "sum of all characters :"<<sum;
+     return 0;
+  }
+     ***
+     
