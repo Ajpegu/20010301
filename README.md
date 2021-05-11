@@ -17,7 +17,7 @@
 | APP DEVELOPMENT | 15.05.21 | No |
 
 
-***C++ CODING
+***C++ 
 
 #include<iostream>
   using namespace std;
