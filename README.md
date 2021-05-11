@@ -18,10 +18,7 @@
 
 
 ***C++ 
-#include<iostream>
-using namespace std;
-int main ()
-{ char str[50];
+ char str[50];
   int i,sum = 0;
   cout<<"Enter a string :";
   gets(str);
@@ -29,5 +26,5 @@ int main ()
   sum = sum + str[i];
   cout << "sum of all characters :"<<sum;
   return 0;
-  }
+  
 ***
