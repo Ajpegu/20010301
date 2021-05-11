@@ -26,5 +26,4 @@
   sum = sum + str[i];
   cout << "sum of all characters :"<<sum;
   return 0;
-  
 ***
