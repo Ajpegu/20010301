@@ -17,7 +17,7 @@
 | APP DEVELOPMENT | 15.05.21 | No |
 
 
-***C++ 
+*** C++ 
  char str[50];
   int i,sum = 0;
   cout<<"Enter a string :";
